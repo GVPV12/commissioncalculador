@@ -4,7 +4,7 @@
 
 
 # 📊 Calculadora de Comisión y Porcentaje
-¡Una sencilla y útil aplicación de escritorio para calcular comisiones y porcentajes de forma rápida!
+Una sencilla y útil aplicación de escritorio para calcular comisiones y porcentajes de forma rápida
 
 # ✨ Características
 Cálculo Sencillo: Calcula el valor a restar basado en un porcentaje y muestra el valor final.
