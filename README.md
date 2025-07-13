@@ -36,7 +36,7 @@ Para usar la aplicación, simplemente ejecuta el archivo calculadora_comision.ex
 
 
 
-# English Version
+# English
 📊 Commission and Percentage Calculator
 A simple and useful desktop application to quickly calculate commissions and percentages!
 
