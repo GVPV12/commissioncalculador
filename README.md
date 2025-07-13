@@ -1,5 +1,7 @@
 # Calculadora de comisión
 
+Descarga / Download: https://github.com/GVPV12/commissioncalculador/releases/download/v1/calculadoracomision.exe
+
 <img width="402" height="682" alt="Captufdfdra" src="https://github.com/user-attachments/assets/c9c9a533-1278-4c56-8bc5-0e983da41087" />
 
 
